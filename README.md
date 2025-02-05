@@ -8,6 +8,7 @@
  - Tenho 21 anos e sou de São Paulo
  - No momento sou um estudante de programação, Estou no 1° Semestre da faculdade de Ciência da computação
  - Gosto muito de Games e de Tecnologia em geral.
+ - Desejo me especializar em Python e Java.
 </pre>
 
 ## <p style="color:white;">___Redes Sociais___ </p>
@@ -20,8 +21,7 @@
 ## <p style="color:white;">___Habilidades___ </p>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) __*Comecei a estudar Java*__
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 
 ## <p style="color:white;">___GitHub Stats___ </p>
 
