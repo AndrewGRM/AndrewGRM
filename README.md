@@ -11,6 +11,16 @@
  - Desejo me especializar em Python e Java.
 </pre>
 
+## <p style="color:white;">___📚 O que estou aprendendo?___ </p>
+
+Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento backend, especialmente na construção de APIs com Python. Meu objetivo é desenvolver projetos sólidos para meu portfólio e consolidar meu conhecimento nas seguintes tecnologias:
+
+🚀 **Atualmente estudando:**  
+- **FastAPI** ⚡  
+- **Flask** 🐍  
+- **Java** ☕  
+- **Banco de dados** 🛢️  
+
 ## <p style="color:white;">___Redes Sociais___ </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewgrm)
@@ -18,10 +28,11 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@nolckz/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andrew_grm/?next=%2F)
 
-## <p style="color:white;">___Habilidades___ </p>
+## <p style="color:white;">___Tecnologias e Habilidades___ </p>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-Intermedi%C3%A1rio-blue?style=for-the-badge&logo=python)  
+![Java](https://img.shields.io/badge/Java-Aprendendo-green?style=for-the-badge&logo=java)  
+![FastAPI](https://img.shields.io/badge/FastAPI-Aprendendo-green?style=for-the-badge&logo=fastapi)  
 
 ## <p style="color:white;">___GitHub Stats___ </p>
 
@@ -31,3 +42,5 @@
 
  - E-mail: andrew.grm15@gmail.com
  - Ou qualquer Rede Social do campo "Rede Sociais".
+
+
