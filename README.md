@@ -1,6 +1,10 @@
-# <p style="color:blue;">___Eae! 👋 Seja Bem-vindo, me chamo Andrew Gabriel.___ </p>
+# <p>___Eae! 👋 Seja Bem-vindo, me chamo Andrew Gabriel.___ </p>
 
-<center><img src="https://i.pinimg.com/originals/21/9a/09/219a09d5c2d9e50e4c2d20c9a03e09af.gif" width="600" height="300"/></center>
+<img src="https://i.pinimg.com/originals/21/9a/09/219a09d5c2d9e50e4c2d20c9a03e09af.gif" width="600" height="300"/>
+
+## ___Objetivo___
+
+Sou apaixonado por tecnologia e tenho o desejo contínuo de me aperfeiçoar para atuar de forma sólida e inovadora no mercado de desenvolvimento de software. Meu principal objetivo é me especializar nas linguagens Python e Java, Com um forte foco em desenvolvimento backend, estou dedicado a construir soluções eficientes, escaláveis e de alta performance.
 
 ## ___Sobre mim___
 
@@ -52,10 +56,16 @@ Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento back
 ![FastAPI](https://img.shields.io/badge/FastAPI-Aprendendo-green?style=for-the-badge&logo=fastapi)  
 
 ## ___Contato___
-
- [![Gmail](https://img.shields.io/badge/Gmail-andrew.grm15@gmail.com-red)](mailto:andrew.grm15@gmail.com)
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrew%20Gabriel-blue)](https://www.linkedin.com/in/andrewgrm)
- - Ou qualquer Rede Social do campo "Rede Sociais".
+<p>
+  <a href="mailto:andrew.grm15@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-andrew.grm15@gmail.com-red">
+  </a>  
+  <br>
+  <a href="https://www.linkedin.com/in/andrewgrm">
+    <img src="https://img.shields.io/badge/LinkedIn-Andrew%20Gabriel-blue">
+  </a>  
+  <p>Ou qualquer Rede Social do campo "Rede Sociais".</p>
+</p>
 
 ## 📜 ___Certificações e Cursos___
 - **Formação Python fundamentals** - Digital Innovation One | ✅ Certificado
