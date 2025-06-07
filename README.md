@@ -1,6 +1,8 @@
 # <p>___Eae! 👋 Seja Bem-vindo, me chamo Andrew Gabriel.___ </p>
 
-<img src="https://i.pinimg.com/originals/21/9a/09/219a09d5c2d9e50e4c2d20c9a03e09af.gif" width="600" height="300"/>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/21/9a/09/219a09d5c2d9e50e4c2d20c9a03e09af.gif" width="600" height="300">
+</p>
 
 ## ___Objetivo___
 
@@ -20,8 +22,6 @@ Sou apaixonado por tecnologia e tenho o desejo contínuo de me aperfeiçoar para
 Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento backend, especialmente na construção de APIs com Python. Meu objetivo é desenvolver projetos sólidos para meu portfólio e consolidar meu conhecimento nas seguintes tecnologias:
 
 🚀 **Atualmente estudando:**  
-- **FastAPI** ⚡  
-- **Flask** 🐍  
 - **Java** ☕  
 - **Banco de dados** 🛢️
 
@@ -53,7 +53,6 @@ Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento back
 
 ![Python](https://img.shields.io/badge/Python-Intermedi%C3%A1rio-blue?style=for-the-badge&logo=python)  
 ![Java](https://img.shields.io/badge/Java-Aprendendo-green?style=for-the-badge&logo=java)  
-![FastAPI](https://img.shields.io/badge/FastAPI-Aprendendo-green?style=for-the-badge&logo=fastapi)  
 
 ## ___Contato___
 <p>
