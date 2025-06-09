@@ -25,10 +25,6 @@ Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento back
 - **Java** ☕  
 - **Banco de dados** 🛢️
 
-## 🛠️ ___Projetos em Andamento___
-
-- **API de Tarefas (To-Do List)**: Desenvolvimento de uma API para gerenciamento de tarefas utilizando FastAPI.
-
 ## ___Redes Sociais___
 
 <p>
