@@ -1,4 +1,4 @@
-# <p>___Eae! 👋 Seja Bem-vindo, me chamo Andrew Gabriel.___ </p>
+<h1 align="center">Eae! 👋 Seja Bem-vindo, me chamo Andrew Gabriel.</h1>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/21/9a/09/219a09d5c2d9e50e4c2d20c9a03e09af.gif" width="600" height="300">
@@ -19,7 +19,7 @@ Sou apaixonado por tecnologia e tenho o desejo contínuo de me aperfeiçoar para
 
 ## 📚 ___O que estou aprendendo?___
 
-Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento backend, especialmente na construção de APIs com Python. Meu objetivo é desenvolver projetos sólidos para meu portfólio e consolidar meu conhecimento nas seguintes tecnologias:
+Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento backend, com ênfase no estudo de Java e bancos de dados relacionais. Meu objetivo é desenvolver projetos sólidos para meu portfólio, consolidando meu conhecimento nessas tecnologias e aprofundando minha compreensão em modelagem de dados e aplicações práticas para sistemas reais.
 
 🚀 **Atualmente estudando:**  
 - **Java** ☕  
