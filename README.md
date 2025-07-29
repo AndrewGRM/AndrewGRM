@@ -12,7 +12,7 @@ Sou apaixonado por tecnologia e tenho o desejo contínuo de me aperfeiçoar para
 
 <pre style="background-color: black; color: white; padding: 10px; border-radius: 5px;">
  - Tenho 21 anos e sou de São Paulo
- - No momento sou um estudante de programação, Estou no 1° Semestre da faculdade de Ciência da computação
+ - No momento sou um estudante de programação, Estou entrando no 2° Semestre da faculdade de Ciência da computação
  - Gosto muito de Games e de Tecnologia em geral.
  - Desejo me especializar em Python e Java.
 </pre>
@@ -63,6 +63,7 @@ Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento back
 </p>
 
 ## 📜 ___Certificações e Cursos___
+- **Santander 2025 - Back-End com Java** - Digital Innovation One | ✅ Certificado
 - **Formação Python fundamentals** - Digital Innovation One | ✅ Certificado
 - **Formação Python backend developer** - Digital Innovation One | ✅ Certificado
 - **Bootcamp Microsoft AI for tech - GitHub Copilot** - Digital Innovation One | ✅ Certificado
