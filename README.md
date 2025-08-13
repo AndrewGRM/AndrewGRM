@@ -1,7 +1,7 @@
 <h1 align="center">Eae! 👋 Seja Bem-vindo, me chamo Andrew Gabriel.</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/21/9a/09/219a09d5c2d9e50e4c2d20c9a03e09af.gif" width="600" height="300">
+  <img src="https://i.pinimg.com/originals/21/9a/09/219a09d5c2d9e50e4c2d20c9a03e09af.gif" width="400" height="200">
 </p>
 
 ## ___Objetivo___
@@ -51,8 +51,9 @@ Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento back
 
 ## ___Tecnologias e Habilidades___
 
-![Python](https://img.shields.io/badge/Python-Intermedi%C3%A1rio-blue?style=for-the-badge&logo=python)  
-![Java](https://img.shields.io/badge/Java-Aprendendo-green?style=for-the-badge&logo=java)  
+  - Python
+  - Java
+  - Git e GitHub
 
 ## ___Contato___
 <p>
@@ -63,7 +64,6 @@ Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento back
   <a href="https://www.linkedin.com/in/andrewgrm">
     <img src="https://img.shields.io/badge/LinkedIn-Andrew%20Gabriel-blue">
   </a>  
-  <p>Ou qualquer Rede Social do campo "Rede Sociais".</p>
 </p>
 
 ## 📜 ___Certificações e Cursos___
