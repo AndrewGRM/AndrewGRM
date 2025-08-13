@@ -17,17 +17,12 @@ Sou apaixonado por tecnologia e tenho o desejo contínuo de me aperfeiçoar para
  - Desejo me especializar em Python e Java.
 </pre>
 
+## 📂 _Projetos_
+**[Gerenciador de Tarefas](https://github.com/AndrewGRM/gerenciador-tarefas-api)** - Para aprendizado
+
 ## 📚 ___O que estou aprendendo?___
 
 Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento backend, com ênfase no estudo de Java e bancos de dados relacionais. Meu objetivo é desenvolver projetos sólidos para meu portfólio, consolidando meu conhecimento nessas tecnologias e aprofundando minha compreensão em modelagem de dados e aplicações práticas para sistemas reais.
-
-## 📂 _Projetos_
-**[Gerenciador de Tarefas](https://github.com/AndrewGRM/gerenciador-tarefas-api)** - Para aprendizado
-    
-
-## 🚀 **Atualmente estudando:**  
-- **Java** ☕  
-- **Banco de dados** 🛢️
 
 ## ___Redes Sociais___
 
