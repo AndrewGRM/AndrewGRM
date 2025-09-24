@@ -4,21 +4,22 @@
   <img src="https://i.pinimg.com/originals/21/9a/09/219a09d5c2d9e50e4c2d20c9a03e09af.gif" width="400" height="200">
 </p>
 
-## ___Objetivo___
+## ___Perfil profissional e objetivo___
 
-Sou apaixonado por tecnologia e tenho o desejo contínuo de me aperfeiçoar para atuar de forma sólida e inovadora no mercado de desenvolvimento de software. Meu principal objetivo é me especializar nas linguagens Python e Java, Com um forte foco em desenvolvimento backend, estou dedicado a construir soluções eficientes, escaláveis e de alta performance.
+🎓 Atualmente, estou no segundo semestre de Ciência da Computação na Universidade de São Judas Tadeu e espero terminar em 2028. Enquanto estou na faculdade, tenho aprimorado habilidades práticas em desenvolvimento de software, sistemas web e bancos de dados, com ênfase em Desenvolvimento Back-End e engenharia de dados. 
 
-## ___Sobre mim___
+💻 Possuo conhecimentos em Python (intermediário) e Java (intermediário) e também tenho experiência de trabalho com Git/GitHub, versionamento de código e bancos de dados relacionais. Meu trabalho inclui: tarefas de API Java + Spring Boot com POO, APIs REST e práticas de versionamento integradas a um banco de dados relacional, Sistema de gestão integral de biblioteca em Java que aumenta meu trabalho em modelo de dados, regras de negócios e sistemas de back-end. 
 
-<pre style="background-color: black; color: white; padding: 10px; border-radius: 5px;">
- - Tenho 21 anos e sou de São Paulo
- - No momento sou um estudante de programação, Estou entrando no 2° Semestre da faculdade de Ciência da computação
- - Gosto muito de Games e de Tecnologia em geral.
- - Desejo me especializar em Python e Java.
-</pre>
+🌍 Ao mesmo tempo, estou aprendendo inglês para ampliar minhas habilidades no mercado de tecnologia global. 
+
+🚀 Estou procurando posições de meio período em Desenvolvimento Back-End, especializando-me em Java, APIs REST, Spring Boot e bancos de dados para utilizar minhas habilidades em projetos reais e soluções impactantes.
+
+📌 Meu objetivo principal é me especializar nas linguagens Python e Java, com ênfase em desenvolvimento Back-end utilizando Java e em engenharia de dados. Almejo ser um profissional de referência no mercado, reconhecido pela qualidade e inovação do meu trabalho. A longo prazo, busco oportunidades de atuar em posições internacionais, ampliando meu campo de atuação e experiência global.
 
 ## 📂 _Projetos_
-**[Gerenciador de Tarefas](https://github.com/AndrewGRM/gerenciador-tarefas-api)** - Para aprendizado
+
+- **[Gerenciador de Tarefas](https://github.com/AndrewGRM/gerenciador-tarefas-api)** - Projeto para aprendizado 
+- **[Sistema de gerenciamento de Biblioteca](https://github.com/AndrewGRM/Sistema-gerenciamento-biblioteca)** - Em andamento/Projeto para aprendizado
 
 ## 📚 ___O que estou aprendendo?___
 
@@ -46,9 +47,12 @@ Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento back
 
 ## ___Tecnologias e Habilidades___
 
-  - Python
-  - Java
-  - Git e GitHub
+<pre style="background-color: black; color: white; padding: 10px; border-radius: 5px;">
+- Conhecimentos: Lógica de Programação, Estrutura de Dados, Desenvolvimento de APIs, Versionamento de Código
+- Linguagens: Java (intermediário), Python (intermediário).
+- Frameworks: Spring Boot (iniciante), Flask (iniciante), FastAPI (iniciante)
+- Ferramentas: Git, GitHub, GitHub Copilot, VS Code, IntelliJ, Insomnia, Excel.
+</pre>
 
 ## ___Contato___
 <p>
