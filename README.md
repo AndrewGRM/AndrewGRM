@@ -20,6 +20,7 @@
 
 - **[Gerenciador de Tarefas](https://github.com/AndrewGRM/gerenciador-tarefas-api)** - Projeto para aprendizado 
 - **[Sistema de gerenciamento de Biblioteca](https://github.com/AndrewGRM/Sistema-gerenciamento-biblioteca)** - Em andamento/Projeto para aprendizado
+- **[Sistema de Curadoria e Compartilhamento de Recursos sobre IA Responsável e Cibersegurança](https://github.com/ogneresj/projetoA3)** - Em andamento/Projeto Acadêmico
 
 ## 📚 ___O que estou aprendendo?___
 
